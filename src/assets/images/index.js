@@ -1,0 +1,17 @@
+export { default as logoSmall } from './logo-small.svg';
+export { default as logo } from './logo.svg';
+export { default as logoWhite } from './logo-white.svg';
+export { default as incoming } from './incoming.jpg';
+export { default as bgWarehousing } from './bg-warehousing.png';
+export { default as defaultImage } from './default-image.svg';
+export { default as notSupportMobile } from './notSupportMobile.svg';
+export { default as transparent } from './transparent-pattern.png';
+// export { default as flagVN } from './flagVN.svg';
+export { default as RegisteredLoadIMG } from './registered-load.svg';
+export { default as RegisteredIMG } from './registered.svg';
+// export { default as iconIsHadImg } from './iconIsHadImg.svg';
+// export { default as iconBackLeft } from './backLeft.svg';
+export { default as iconLamp } from './lamp.svg';
+export { default as bellNotification } from './bell-notify.svg';
+export { default as backgroundWorld } from './background-world.svg';
+export { default as defaultImageStore } from './default-store-icon.svg';

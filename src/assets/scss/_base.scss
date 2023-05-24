@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: 'Roboto';
+  font-size: $font-default;
+  line-height: $line-height;
+}
+
+.odii {
+  &-input {
+    font-size: $font-default;
+    line-height: $line-height;
+    padding: $spacer/1.5 $spacer;
+    border-radius: $radius;
+    border: solid 1px $light-gray;
+    .ant-input {
+      &-prefix,
+      &-suffix {
+        height: $font-default * $line-height;
+        width: $font-default * $line-height;
+        justify-content: center;
+        color: $gray-blue;
+      }
+
+      &-password-icon {
+        color: $gray-blue;
+      }
+    }
+  }
+}

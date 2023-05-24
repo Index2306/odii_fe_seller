@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Pacifico';
+  font-weight: 400;
+  src: url('./Pacifico-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Parisienne';
+  font-weight: 400;
+  src: url('./Parisienne-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Pattaya';
+  font-weight: 400;
+  src: url('./Pattaya-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Quantico';
+  font-weight: 400;
+  src: url('./Quantico-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Rye';
+  font-weight: 400;
+  src: url('./Rye-Regular.ttf') format('truetype');
+  font-display: swap;
+}
